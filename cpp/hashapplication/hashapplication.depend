@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559402447 source:d:\github\100days\cpp\hashapplication\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
