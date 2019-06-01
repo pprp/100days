@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559403621 source:d:\github\100days\cpp\trapezoid\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

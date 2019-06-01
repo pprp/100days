@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559402954 source:d:\github\100days\cpp\sortbyscore\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+
